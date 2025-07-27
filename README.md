@@ -9,4 +9,12 @@ A simple Python guessing game where the computer selects a number and you try to
 - Program gives hints: "Higher" or "Lower"
 
 ## 🧪 Example Output
+🎯 Welcome to the Perfect Guess Game!
+👉 Enter your guess: 50
+📈 Higher number please!
+👉 Enter your guess: 75
+📉 Lower number please!
+✅ You guessed the number in 3 attempts.
+
+
 
